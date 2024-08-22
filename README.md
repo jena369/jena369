@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jena369
-- 👀 I’m interested in implementing CI/CD pipelines and build Web Applications
+- 👀 I’m interested in building and automating Web Applications 
 - 🌱 I’m currently learning DevOps and its practices 
 - 📫 You can reach out to me via jenarthanan369@gmail.com
 - 💻 my newsletter - jenarthanan.hashnode.dev
