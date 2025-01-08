@@ -1,17 +1,15 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/064/767/201/original/ash-emritte-pcscreen6.gif?1688686432)
 <h1 align="center">Hi 👋, I'm JENA</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.jpg">
 
-- 🌱 I’m currently learning **M.E.R.N and DevOps Automation Tools**
+- 🌱 I’m currently learning **Design and Automation Tools**
 
 - 📝 I regularly write articles on [jenarthanan.hashnode.dev](jenarthanan.hashnode.dev)
 
-- 💬 Ask me about **DevOps Pipelines, Container Orchestration**
+- 💬 Ask me about **Embedded Systems, Internet of Things, Ci/CD pipelines, Deep Learning**
 
 - 📫 How to reach me **jenarthanan369@gmail.com**
-
-- ⚡ Fun fact **I'm an Electronics Engineer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
